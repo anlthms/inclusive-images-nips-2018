@@ -1,6 +1,6 @@
 # Inclusive Images Challenge
 
-Pytorch implementation of classifier
+PyTorch implementation of a classifier for the [Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge/)
 
 NOTE: currently uses 599 classes given in train-annotations-bbox.csv
 
